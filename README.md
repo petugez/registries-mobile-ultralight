@@ -11,5 +11,7 @@
 ## Build APK
 	cordova build or cordova run (includes build)
 
-
+## Debug Android App
+In chrome open uri
+	chrome://inspect
 	
